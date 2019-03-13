@@ -19,9 +19,22 @@ container that has been updated to use MySQL.
 
 ### DOCKER COMPOSE - APP SERVER AND MYSQL
 
+7. [5 pts] Your updated docker-compose.yml file containing the application server, built from
+your local Dockerfile, and the existing MySQL configuration. Please provide a link
+to this file rather than a screen capture.
+- https://github.com/nickstanley574/spring-petclinic/blob/master/docker-compose.yml
+8. [5 pts] Your updated application-mysql.properties file containing the URL change for
+the database server. Please provide a link to this file rather than a screen capture.
+https://github.com/nickstanley574/spring-petclinic/blob/master/src/main/resources/application-mysql.properties
+9. [5 pts] The output from the docker-compose up command.
+- ![Screen Capture #hw8_09](images/hw08_09.png)
+10. [5 pts] Your browser accessing the “Veterinarians” page of the website from your local container
+- ![Screen Capture #hw8_09](images/hw08_10.png)
+
 
 
 ___
+
 
 1. [5 pts] Your Github account showing that is has been forked from the depaulcdm/springpetclinic repository.
 - ![Screen Capture #1](images/hw05_01.png)
