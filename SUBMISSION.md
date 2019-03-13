@@ -1,5 +1,16 @@
 Nicholas Stanley (1353158)
 
+### DOCKER
+1. [5 pts] Your dockerfile. Please provide a link to this file rather than a screen capture.
+- https://github.com/nickstanley574/spring-petclinic/blob/master/Dockerfile
+2. [5 pts] Your running docker instance as shown by a ps command.
+- ![Screen Capture #hw8_02](images/hw08_02.png)
+3. [5 pts] Your browser accessing the main page of the website from your local container.
+- ![Screen Capture #hw8_02](images/hw08_03.png)
+
+
+___
+
 1. [5 pts] Your Github account showing that is has been forked from the depaulcdm/springpetclinic repository.
 - ![Screen Capture #1](images/hw05_01.png)
 2. [5 pts] Your Travis CI dashboard showing a successful first build.
