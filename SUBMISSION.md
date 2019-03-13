@@ -6,7 +6,19 @@ Nicholas Stanley (1353158)
 2. [5 pts] Your running docker instance as shown by a ps command.
 - ![Screen Capture #hw8_02](images/hw08_02.png)
 3. [5 pts] Your browser accessing the main page of the website from your local container.
-- ![Screen Capture #hw8_02](images/hw08_03.png)
+- ![Screen Capture #hw8_03](images/hw08_03.png)
+
+### DOCKER COMPOSE - MYSQL ONLY
+4. [5 pts] The output from the docker-compose up command.
+- ![Screen Capture #hw8_04](images/hw08_04.png)
+5. [5 pts] Your browser accessing the “Veterinarians” page of the website from your local container when you run the application from the host system.
+- ![Screen Capture #hw8_05](images/hw08_05.png)
+6. [5 pts] A section of the stack trace generated when you attempt to run the application
+container that has been updated to use MySQL.
+- ![Screen Capture #hw8_06](images/hw08_06.png)
+
+### DOCKER COMPOSE - APP SERVER AND MYSQL
+
 
 
 ___
